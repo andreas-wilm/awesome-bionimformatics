@@ -4,7 +4,7 @@ This is an attempt of an awesome list for Nim for Bioinformatics
 | ---- | ----------- | ------- | ------------------------ |
 | [SciNim/bio](https://github.com/SciNim/bio) ([docs](https://xbello.gitlab.io/bio/)) | A library to work with biological sequences | Part of SciNim | |
 | [SciNim/bionim](https://github.com/SciNim/bionim) | A collection of useful algorithms and data structures for bioinformatics | Part of SciNim (forked from [Unaimend/bionim](https://github.com/Unaimend/bionim))| |
-| [Unaimend/biotools](https://github.com/Unaimend/biotools) | | | |
+| [Unaimend/biotools](https://github.com/Unaimend/biotools) | functions and command-line utilities for working with biological data | | |
 | [brentp/d4-nim](https://github.com/brentp/d4-nim) |nim-lang wrapper for the d4-format  | | |
 | [brentp/hts-nim](https://github.com/brentp/hts-nim) ([docs](https://brentp.github.io/hts-nim/))| nim wrapper for htslib for parsing genomics data files | | |
 | [brentp/nim-kmer](https://github.com/brentp/nim-kmer) | DNA kmer operations for nim | | |
